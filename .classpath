@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="POI/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="POI/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="POI/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="POI/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="POI/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="POI/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="POI/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/activation.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-codec-1.14-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-codec-1.14-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-codec-1.14-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-codec-1.14-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-csv-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-csv-1.7-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-lang3-3.9-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-lang3-3.9-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-lang3-3.9-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/java-json.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-1.2-api-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-1.2-api-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-1.2-api-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-api-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-api-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-api-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-appserver-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-appserver-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-appserver-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-cassandra-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-cassandra-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-cassandra-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-core-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-core-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-core-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-core-2.11.2-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-couchdb-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-couchdb-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-couchdb-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-flume-ng-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-flume-ng-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-flume-ng-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-iostreams-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-iostreams-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-iostreams-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jcl-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jcl-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jcl-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jdbc-dbcp2-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jdbc-dbcp2-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jdbc-dbcp2-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jmx-gui-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jmx-gui-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jmx-gui-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jpa-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jpa-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jpa-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jul-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jul-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-jul-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-liquibase-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-liquibase-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-liquibase-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-mongodb2-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-mongodb2-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-mongodb2-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-mongodb3-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-mongodb3-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-mongodb3-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-slf4j18-impl-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-slf4j18-impl-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-slf4j18-impl-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-slf4j-impl-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-slf4j-impl-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-slf4j-impl-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-taglib-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-taglib-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-taglib-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-to-slf4j-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-to-slf4j-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-to-slf4j-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-web-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-web-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/log4j-web-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/poi-examples-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/poi-excelant-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/poi-scratchpad-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/byte-buddy-1.14.18.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/byte-buddy-1.14.18-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/checker-qual-3.42.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/checker-qual-3.42.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/commons-exec-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/commons-exec-1.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/error_prone_annotations-2.27.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/error_prone_annotations-2.27.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/failsafe-3.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/failureaccess-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/failureaccess-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/guava-33.2.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/guava-33.2.1-jre-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/jsr305-3.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-api-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-api-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-api-incubator-1.40.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-api-incubator-1.40.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-context-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-context-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-exporter-logging-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-exporter-logging-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-common-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-common-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-extension-autoconfigure-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-extension-autoconfigure-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-extension-autoconfigure-spi-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-extension-autoconfigure-spi-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-logs-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-logs-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-metrics-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-metrics-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-trace-1.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-sdk-trace-1.40.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-semconv-1.25.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/opentelemetry-semconv-1.25.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-api-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-api-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-chrome-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-chrome-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-chromium-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-chromium-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-devtools-v85-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-devtools-v85-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-devtools-v125-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-devtools-v125-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-devtools-v126-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-devtools-v126-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-devtools-v127-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-devtools-v127-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-edge-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-edge-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-firefox-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-firefox-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-http-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-http-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-ie-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-ie-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-java-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-java-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-json-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-json-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-manager-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-manager-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-os-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-os-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-remote-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-remote-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-safari-driver-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-safari-driver-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-support-4.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Setup/Selenium/selenium-support-4.23.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/KeywordDrivenFramework/POI/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/KeywordDrivenFramework/POI/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/KeywordDrivenFramework/POI/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/KeywordDrivenFramework/POI/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/KeywordDrivenFramework/POI/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/KeywordDrivenFramework/POI/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/KeywordDrivenFramework/POI/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/KeywordDrivenFramework/POI/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/KeywordDrivenFramework/POI/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/KeywordDrivenFramework/POI/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/KeywordDrivenFramework/POI/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Project KW/KeywordDrivenFramework/POI/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/avalon-framework-4.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/logkit-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/ooxml-schemas-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/openxml4j-1.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/poi-ooxml-3.5-beta4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/servlet-api-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
