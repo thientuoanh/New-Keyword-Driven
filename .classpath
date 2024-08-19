@@ -6,18 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="POI/poi-3.8-20120326.jar"/>
-	<classpathentry kind="lib" path="POI/poi-examples-3.8-20120326.jar"/>
-	<classpathentry kind="lib" path="POI/poi-excelant-3.8-20120326.jar"/>
-	<classpathentry kind="lib" path="POI/poi-ooxml-3.8-20120326.jar"/>
-	<classpathentry kind="lib" path="POI/poi-ooxml-schemas-3.8-20120326.jar"/>
-	<classpathentry kind="lib" path="POI/poi-scratchpad-3.8-20120326.jar"/>
-	<classpathentry kind="lib" path="POI/ooxml-lib/dom4j-1.6.1.jar"/>
-	<classpathentry kind="lib" path="POI/ooxml-lib/stax-api-1.0.1.jar"/>
-	<classpathentry kind="lib" path="POI/ooxml-lib/xmlbeans-2.3.0.jar"/>
-	<classpathentry kind="lib" path="POI/lib/commons-logging-1.1.jar"/>
-	<classpathentry kind="lib" path="POI/lib/junit-3.8.1.jar"/>
-	<classpathentry kind="lib" path="POI/lib/log4j-1.2.13.jar"/>
 	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/activation.jar"/>
 	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/byte-buddy-1.8.15.jar"/>
 	<classpathentry kind="lib" path="D:/Automation/Project KW/FW-Test/Bien import de code/client-combined-3.141.59.jar"/>
